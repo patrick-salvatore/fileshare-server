@@ -1,0 +1,6 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+service
+.env
+.env.local
+.env.prod
+.env.live

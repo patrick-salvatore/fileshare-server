@@ -1,0 +1,1 @@
+go build -o service cmd/service/main.go
